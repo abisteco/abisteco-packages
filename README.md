@@ -6,7 +6,7 @@ Pretendemos representar graficamente o trabalho realizado.
 
 # Requisitos
 
-[X] Requer conhecimento. 
-[X] Requer requisitos. 
-[X] Requer comprometimento. 
-[X] Requer vontade.
+- [x] Requer conhecimento. 
+- [x] Requer requisitos. 
+- [x] Requer comprometimento. 
+- [x] Requer vontade.
